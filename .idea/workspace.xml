@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e041b5c-0edc-4fc4-962a-992e5609831e" name="Changes" comment="Создание классов из задания. (Класс ShoppingCart может быть подпакетом, нужен анализ)">
-      <change afterPath="$PROJECT_DIR$/src/test/java/main.java" afterDir="false" />
+    <list default="true" id="1e041b5c-0edc-4fc4-962a-992e5609831e" name="Changes" comment="Создание полей класов. версия1 (кроме корзины, скидок,)">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/model/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/model/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/model/Discountable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/model/Discountable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/model/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/model/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/model/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/model/Meat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/model/constants/Colour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/model/constants/Colour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/model/constants/Colour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/model/constants/Color.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/model/constants/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/model/constants/Discount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/service/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/service/ShoppingCart.java" afterDir="false" />
     </list>
@@ -65,12 +65,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="Project_sprint2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671522968925</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Создание полей класов. версия1 (кроме корзины, скидок,)">
+      <created>1671528425607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671528425607</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создание классов из задания. (Класс ShoppingCart может быть подпакетом, нужен анализ)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создание классов из задания. (Класс ShoppingCart может быть подпакетом, нужен анализ)" />
+    <MESSAGE value="Создание полей класов. версия1 (кроме корзины, скидок,)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание полей класов. версия1 (кроме корзины, скидок,)" />
   </component>
 </project>
